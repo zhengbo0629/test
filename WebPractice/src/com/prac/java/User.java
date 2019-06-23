@@ -3,7 +3,7 @@ package com.prac.java;
 import java.math.BigDecimal;
 
 public class User {
-
+//zhengbo  ∑÷÷ß  first
 	
 	int  id;
 	String  name;
