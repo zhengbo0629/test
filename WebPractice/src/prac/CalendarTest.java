@@ -1,4 +1,4 @@
-package com.prac;
+package prac;
 
 import java.text.DateFormat;
 import java.text.DecimalFormat;

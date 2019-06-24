@@ -1,4 +1,4 @@
-package com.prac;
+package prac;
 
 public enum DataTypeEnum {
 	VARCHAR("22","q","b"),

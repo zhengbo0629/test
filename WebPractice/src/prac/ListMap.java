@@ -1,4 +1,4 @@
-package com.prac;
+package prac;
 
 import java.util.ArrayList;
 import java.util.List;

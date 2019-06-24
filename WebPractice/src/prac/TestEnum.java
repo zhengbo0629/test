@@ -1,4 +1,4 @@
-package com.prac;
+package prac;
 
 public class TestEnum {
 
