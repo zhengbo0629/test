@@ -1,4 +1,4 @@
-package com.prac.java;
+package com.prac;
 
 public class two {
 public static void main(String[] args) {

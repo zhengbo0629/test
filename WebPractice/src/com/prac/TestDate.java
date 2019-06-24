@@ -1,4 +1,4 @@
-package com.prac.java;
+package com.prac;
 
 import java.util.Calendar;
 import java.util.Date;
