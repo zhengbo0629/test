@@ -12,7 +12,7 @@ import org.omg.CORBA.portable.ValueBase;
 public class First {
 	public static void main(String[] args) {
 		
-		
+		//111111¸Ä´úÂë
 	
 	
 	int  a=(Integer) null;
